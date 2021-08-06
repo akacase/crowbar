@@ -1,0 +1,8 @@
+[package]
+authors = ["casey mattingly <case@capsulecorp.org>"]
+edition = "2018"
+name = "crowbar"
+version = "0.1.0"
+
+[dependencies]
+clap = "2.33.3"
